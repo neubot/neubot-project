@@ -15,4 +15,4 @@ This repository loosely keeps track of the high-level activities we work on in t
     - [most repos of the MeasurementKit organization](https://github.com/measurement-kit)
     - [TheTorProject/ooni-probe](https://github.com/TheTorProject/ooni-probe)
 
-- [project owners](https://github.com/orgs/neubot/people) and [collaborators](https://github.com/orgs/neubot/outside-collaborators)
+- [project owners](https://github.com/orgs/neubot/people)
